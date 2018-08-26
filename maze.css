@@ -1,0 +1,11 @@
+* { padding:0; margin:0;
+    text-align:center; }
+h1 {
+    background-color:orange;
+    color:white;
+    front-size:16px;
+    padding:8px;
+}
+#cvMain {
+    width:594px; height:594px;
+}
